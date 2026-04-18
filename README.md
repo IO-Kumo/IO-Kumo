@@ -1,5 +1,5 @@
-##IO-Kumo
-#Junior Web Developer
+#IO-Kumo
+###Junior Web Developer
 
 ---
 
