@@ -1,6 +1,6 @@
 #IO-Kumo
 
-###Junior Web Developer
+##Junior Web Developer
 
 ---
 
